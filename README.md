@@ -1,5 +1,13 @@
-# JAV1001-Lab1 By Balaji Chandupatla / A00245077
-## This is a Lab code which is used to convert metrics
+# JAV1001-Lab1 
+## Name: Balaji Chandupatla
+## Student Number: A00245077
+## Program Description: 
+
+### Java code used to convert the following metrics
+### KM to Mi, CM to Inches, KGs to lbs, gms to oz, °C to F and K, Litre to cups and vice versa.
+
+### The code requires the use to input data along with metric and the code automatically converts it accordingly. 
+### The input is case insensitive too.
 
 ### Code Output
 >java Convert  
